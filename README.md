@@ -7,7 +7,7 @@
 
 ### Task: Copy/Paste table column
 
-Clone and paste element to document... Easy? Okay, but what do you say when I aks you to clone and paste table column? This task is for real heroes!
+Clone and paste element to document... Easy? Okay, but what do you say when I ask you to clone and paste table column? This task is for real heroes!
 
 Your task: Clone the second column from the table, and append it to the table. To increase the complexity, append it in front of the last table column.
 
